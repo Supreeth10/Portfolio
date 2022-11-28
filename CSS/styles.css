@@ -22,7 +22,3 @@
   width: 75%;
   height: 100%;
 }
-
-#ListItem {
-  overflow-wrap: break-word !important;
-}

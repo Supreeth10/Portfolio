@@ -1,7 +1,6 @@
 let form = document.getElementById("form");
 
 form.addEventListener("submit", (e) => {
-  //   e.preventDefault();
   let Name = document.getElementById("username");
   let email = document.getElementById("InputEmail");
   let msg = document.getElementById("message");
