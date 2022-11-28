@@ -17,6 +17,6 @@ Link to this website : [My portfolio website](https://supreeth10.github.io/Portf
 
 ## Resources used 
 1. [W3School for HTML/JavaScript/CSS](https://www.w3schools.com)
-2. [Bootstrap] (https://getbootstrap.com/docs/5.2/customize/overview/)
-3. [MDN Documentation] (https://developer.mozilla.org/en-US/)
+2. [Bootstrap](https://getbootstrap.com/docs/5.2/customize/overview/)
+3. [MDN Documentation](https://developer.mozilla.org/en-US/)
 
