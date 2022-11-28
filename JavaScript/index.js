@@ -1,7 +1,3 @@
-let submit_button = document.getElementById("submit_button");
-let Name = document.getElementById("username");
-let email = document.getElementById("InputEmail");
-let msg = document.getElementById("message");
 let form = document.getElementById("form");
 
 form.addEventListener("submit", (e) => {
